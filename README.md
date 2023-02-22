@@ -1,5 +1,5 @@
 README
-======
+------
 
 This project is a Zynthian case build with the following features:
 
