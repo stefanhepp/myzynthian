@@ -115,7 +115,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.25,
-        "min_connection": 0.25,
+        "min_connection": 0.24,
         "min_copper_edge_clearance": 0.049999999999999996,
         "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.25,
@@ -127,7 +127,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.7999999999999999,
         "min_track_width": 0.3,
-        "min_via_annular_width": 0.25,
+        "min_via_annular_width": 0.24,
         "min_via_diameter": 1.7,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -460,7 +460,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "ZynthianIO.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
