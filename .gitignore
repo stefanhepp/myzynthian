@@ -17,3 +17,4 @@ fp-info-cache
 
 # Ignore FreeCAD backups
 *.FCStd1
+*.FCBak
