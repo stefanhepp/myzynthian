@@ -49,7 +49,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": true,
-          "min_clearance": 0.27
+          "min_clearance": 0.26
         }
       },
       "diff_pair_dimensions": [
@@ -119,7 +119,7 @@
         "allow_microvias": false,
         "max_error": 0.005,
         "min_clearance": 0.26,
-        "min_connection": 0.25,
+        "min_connection": 0.26,
         "min_copper_edge_clearance": 0.05,
         "min_hole_clearance": 0.3,
         "min_hole_to_hole": 0.25,
