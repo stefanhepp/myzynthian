@@ -59,7 +59,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|168708680|100448680|44806bce-5e5d-4dbd-91d4-18a10f731132|114311d4-dee7-4980-ad79-caa401f20c14",
+        "unconnected_items|196648680|100448680|3a9ea62d-d889-4e32-93de-5a5c2d1ba2e8|1d6726e3-0a30-4272-a3b3-b91849fd24d3",
+        "unconnected_items|206808680|100448680|ac8bd328-8ff1-4235-b989-58c14da1cc6e|114311d4-dee7-4980-ad79-caa401f20c14",
+        "unconnected_items|218238680|77588680|6fb94cd8-4b2c-4213-9c70-4240d1502e8b|114311d4-dee7-4980-ad79-caa401f20c14"
+      ],
       "meta": {
         "version": 2
       },
@@ -464,7 +469,7 @@
         "name": "Default",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 0.27,
+        "track_width": 0.28,
         "via_diameter": 1.7,
         "via_drill": 0.8,
         "wire_width": 6
