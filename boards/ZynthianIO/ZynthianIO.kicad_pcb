@@ -1452,6 +1452,7 @@
 		(property "Reference" "MH2"
 			(at 0 4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c2aad530-e067-4c9d-9a48-015562574043")
 			(effects
 				(font
@@ -6772,6 +6773,7 @@
 		(property "Reference" "MH3"
 			(at 0 -4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "2dde94b9-a53d-4562-a055-0438985dfa40")
 			(effects
 				(font
@@ -7771,6 +7773,7 @@
 		(property "Reference" "MH1"
 			(at 0 4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "724578c1-358c-43e8-977a-d6914d52878f")
 			(effects
 				(font
@@ -10225,6 +10228,7 @@
 		(property "Reference" "MH4"
 			(at 0 -4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b21536e8-307b-4570-9dd4-75bf2d78307e")
 			(effects
 				(font
@@ -15446,7 +15450,6 @@
 	(zone
 		(net 1)
 		(net_name "GND")
-		(locked yes)
 		(layer "B.Cu")
 		(uuid "114311d4-dee7-4980-ad79-caa401f20c14")
 		(hatch edge 0.5)
