@@ -19,6 +19,7 @@ fp-info-cache
 
 # Ignore gerber output files
 gerber/
+bom/
 
 # Ignore FreeCAD backups
 *.FCStd1
